@@ -1,9 +1,12 @@
 # ChatGPT Prompts
 - <b>Note. So far, these things working well for prompts on the GPT-4 model. (03/15/2023)
 - <b>We are constantly investigating clever workarounds that allow us to utilize the full potential of ChatGPT.
+- <b>Check out the normal creators for this here: <https://github.com/0xk1h0/ChatGPT_DAN/>
 ---
 
 - <https://chat.openai.com/>
+- <https://github.com/0xk1h0/ChatGPT_DAN/>
+- 
 <!--
 - [Is ChatGPT "DAN" Real? Gonna find out [Part 1]](https://www.youtube.com/watch?v=-q8woRG9FrI) \
   (<https://www.youtube.com/watch?v=-q8woRG9FrI>)
